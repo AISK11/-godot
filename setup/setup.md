@@ -8,5 +8,5 @@
 
 ## Configuration
 
-- Editor -> Editor Settings...
-	- [x] Text Editor -> Behavior -> Files -> Trim Trailing Whitespace on Save
+- Editor > Editor Settings...
+	- [x] Text Editor > Behavior > Files > Trim Trailing Whitespace on Save
