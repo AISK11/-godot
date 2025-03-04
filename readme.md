@@ -8,5 +8,6 @@
 
 ## Notes
 
-- [Project Settings](notes/project-settings.md)
 - [GDScript](notes/gdscript.md)
+- [Nodes](notes/nodes.md)
+- [Project Settings](notes/project-settings.md)
